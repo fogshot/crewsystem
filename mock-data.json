@@ -1,0 +1,16 @@
+{
+  "users": [{
+    "id": 1,
+    "name": "Peter von Niebelschütz",
+    "email": "peter.niebelschuetz@gmail.com"
+  },
+    {
+      "id": 2,
+      "name": "Jens Seiderer",
+      "email": "jens@seiderer.one"
+    }],
+  "ships": [{
+    "id": 1,
+    "name": "Germania VI"
+  }]
+}

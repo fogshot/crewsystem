@@ -1,0 +1,8 @@
+<h2 i18n="Heading|Heading for the ship list component template">Ship list</h2>
+
+<table mat-table [dataSource]="ships$" class="mat-elevation-z8">
+  <mat-text-column name="id"></mat-text-column>
+  <mat-text-column name="name"></mat-text-column>
+  <tr mat-header-row *matHeaderRowDef="columnsToDisplay"></tr>
+  <tr mat-row *matRowDef="let shipsRowData; columns: columnsToDisplay"></tr>
+</table>
