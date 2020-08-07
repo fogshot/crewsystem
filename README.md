@@ -32,6 +32,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - JSON Server (for mocking the backend during development, see [here](https://medium.com/letsboot/the-perfect-mock-backend-to-start-with-an-angular-application-3d751d16614f))
 
 ## Using JSON Server to mock your backend
-Run the server using [mock-data.json](./mock-data.json):
+Run the server using [mock-data.json](server/mock-data.json):
 
 `json-server --watch ./mock-data.json`
