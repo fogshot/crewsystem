@@ -1,12 +1,14 @@
 {
   "users": [{
     "id": 1,
-    "name": "Peter von Niebelschütz",
+    "first_name": "Peter-Benedikt",
+    "last_name": "von Niebelschütz",
     "email": "peter.niebelschuetz@gmail.com"
   },
     {
       "id": 2,
-      "name": "Jens Seiderer",
+      "first_name": "Jens",
+      "last_name": "Seiderer",
       "email": "jens@seiderer.one"
     }],
   "ships": [{
