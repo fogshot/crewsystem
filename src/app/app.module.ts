@@ -8,8 +8,8 @@ import {RouterModule, Routes} from '@angular/router';
 import {ShipListComponent} from './ships/ship-list/ship-list.component';
 import {MatTableModule} from '@angular/material/table';
 import {HttpClientModule} from '@angular/common/http';
-import { ShipDetailsComponent } from './ships/ship-details/ship-details.component';
-import { UserListComponent } from './users/user-list/user-list.component';
+import {ShipDetailsComponent} from './ships/ship-details/ship-details.component';
+import {UserListComponent} from './users/user-list/user-list.component';
 
 const appRoutes: Routes = [
   {path: '', component: AppComponent},

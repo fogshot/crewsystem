@@ -1,4 +1,4 @@
 export interface Ship {
-  id: number;
+  id: number|undefined;
   name: string;
 }
